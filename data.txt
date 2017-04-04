@@ -1,5 +1,5 @@
 Data: Changing Phi: -90 = 0
-0.3 volts, 2.5 Amps
+0.3 volts, 2.5 Amps, starting weight: 71.23
 Degree, Mass
 0,71.39
 5,71.49
@@ -27,3 +27,27 @@ Degree, Mass
 115,72.43
 120,72.39
 125,72.34
+
+Changing L
+0.3 volts, 2.6 amps, starting weight: 91.22, angle: 90 degrees
+Current length, Mass
+4.22,-0.03
+3.22,-0.03
+1.25, 0.00
+2.22, -0.01
+6.42, -0.05
+8.48,-0.07
+
+Chaning Current:
+8.48 length, angle: 90 degrees starting weight: 91.22
+Amps, Volts, Change
+0.5,0.1,0.0
+1.0,0.1,0.0
+1.5,0.2,-0.01
+2.0,0.2,-0.03
+2.5,0.3,-0.05
+3.0,0.3,-0.07
+3.5,0.4,-0.10
+4.0,0.5,-0.12
+4.5,0.5,-0.14
+4.9,0.6,-0.17
