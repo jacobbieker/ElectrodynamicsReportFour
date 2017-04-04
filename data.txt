@@ -51,3 +51,15 @@ Amps, Volts, Change
 4.0,0.5,-0.12
 4.5,0.5,-0.14
 4.9,0.6,-0.17
+
+Changing B:
+8.48 length, angle:90 degrees, Amps 4.9, Volts 0.6, starting weight change -0.17
+NumMagnets,Change
+6,-0.17
+4,-26.53
+3,-39.52
+2,-51.91
+0,-78.61
+1,-64.77
+5,-13.07
+Each magnet weighs: 13.35
