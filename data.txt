@@ -1,5 +1,6 @@
 Data: Changing Phi: -90 = 0
 0.3 volts, 2.5 Amps, starting weight: 71.23
+390 middle, 420 edge -> magnetic square thing (Gauss) +- 50 
 Degree, Mass
 0,71.39
 5,71.49
@@ -27,6 +28,20 @@ Degree, Mass
 115,72.43
 120,72.39
 125,72.34
+
+Statistical Error:
+turn off scale each time
+90 degree on spinny thing, paper between scale and magnet, mass:72.55, volts 0.7, Amps = 4.8
+2nd time: 72.54, without coil: 70.87
+3rd: 70.84, with coil: 78.44
+4th: 70.58, with coil: 72.61
+5th: 70.60, with coil: 72.63
+6th: 70.54, with coil: 72.58
+7th: 70.50, with coil: 72.50
+8th: 71.02, with coil: 73.00
+9th: 73.26, with coil: 75.27
+10th: 70.76, with coil: 68.74
+
 
 Changing L
 0.3 volts, OLD 2.6, 2.5 amps, starting weight: OLD 91.22, NEW: 164.83, angle: 90 degrees
