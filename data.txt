@@ -29,14 +29,21 @@ Degree, Mass
 125,72.34
 
 Changing L
-0.3 volts, 2.6 amps, starting weight: 91.22, angle: 90 degrees
-Current length, Mass
-4.22,-0.03
-3.22,-0.03
-1.25, 0.00
-2.22, -0.01
-6.42, -0.05
-8.48,-0.07
+0.3 volts, OLD 2.6, 2.5 amps, starting weight: OLD 91.22, NEW: 164.83, angle: 90 degrees
+2mm per side, so carry through depnding on number of sides
+Error in length is width, width is: 3cm*2, 2.2cm = 8.2cm, 2mm width per side, 
+0.9cm*2,3cm*2,4.2cm*2,1.9*2,2.1*2cm= 24.2cm
+Current length, Mass, sideNum
+8.2,0.00,3
+24.2,-0.01,10
+
+OLD VALUE, -> NO LENGTH OR SIDE NUM
+4.22,-0.03,
+3.22,-0.03,
+1.25, 0.00,
+2.22, -0.01,
+6.42, -0.05,
+8.48,-0.07, -> 24.2cm,10
 
 Chaning Current:
 8.48 length, angle: 90 degrees starting weight: 91.22
@@ -54,6 +61,8 @@ Amps, Volts, Change
 
 Changing B:
 8.48 length, angle:90 degrees, Amps 4.9, Volts 0.6, starting weight change -0.17
+Estimated magnet strength of each magnet, w/error: 600, 570, 560, 620, 600, 580 +- 50 (Gauss)
+Mass of magents: 13.36, 13.18, 13.18, 13.06, 13.21, 13.12 w/ paper between scale and magent.
 NumMagnets,Change
 6,-0.17
 4,-26.53
@@ -62,4 +71,4 @@ NumMagnets,Change
 0,-78.61
 1,-64.77
 5,-13.07
-Each magnet weighs: 13.35
+Each magnet weighs: 13.35, no paper between it
